@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "500W",
+  "base_artist": "神が残した夢を喰う。",
+  "createdAt": "2025-12-18T15:54:37.903237Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "500W",
+      "artist": "神が残した夢を喰う。",
+      "has_synced": true,
+      "path": "select/01_500W_神が残した夢を喰う。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "500W",
+      "artist": "神が残した夢を喰う。",
+      "has_synced": false,
+      "path": "select/pl_01_500W_神が残した夢を喰う。.txt"
+    }
+  ]
+}
